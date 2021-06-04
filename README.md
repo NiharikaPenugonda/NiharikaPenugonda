@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiharikaPenugonda
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front end Web development library React js
+- 🌱 I’m currently learning Front end Web development framework Angular
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 Reach me at niharikapenugonda@gmail.com
 
