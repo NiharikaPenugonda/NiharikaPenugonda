@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NiharikaPenugonda
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning and working on Front end Web development framework Angular
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 Reach me at niharikapenugonda@gmail.com
