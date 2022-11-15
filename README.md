@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and working on Front end Web development framework Angular
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 Reach me at niharikapenugonda@gmail.com
-- 💻 I [leetcode] (leetcode.com/NiharikaPenugonda) 
+- 💻 I [leetcode](leetcode.com/NiharikaPenugonda) 
 
 <!---
 NiharikaPenugonda/NiharikaPenugonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
